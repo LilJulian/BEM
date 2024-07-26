@@ -1,0 +1,19 @@
+.lista {
+  width: 400px;
+  background-color: var(--color2);
+
+}
+
+.lista__item {
+  padding: 12px;
+  border-bottom: solid black;
+}
+
+.lista__texto {}
+
+.lista__icono {}
+
+.lista__item--uno {
+  border-bottom: none;
+  padding: 12px;
+}
